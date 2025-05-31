@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
-</p>
 
 <h1 align="center"> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
@@ -56,9 +53,6 @@
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Amalbkr0408&show_icons=true&theme=tokyonight" alt="GitHub Stats"></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Amalbkr0408&theme=tokyonight" alt="GitHub Streak"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amalbkr0408&layout=compact&theme=tokyonight" alt="Top Languages"></td>
   </tr>
 </table>
 
